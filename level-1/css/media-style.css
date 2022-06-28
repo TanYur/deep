@@ -1,0 +1,49 @@
+
+@media (max-width: 980px) {
+    .row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      max-width: 90%;
+      width: 90%;
+      height: 90%;
+    }
+    .col {
+      width: 46%;
+      height: 84%;
+    }
+    .title {
+      font-size: 4rem;
+      letter-spacing: -11px;
+    }
+    p {
+      font-size: small;
+    }
+    .img { 
+        background-image: url("../images/sea.mid.jpg");     
+        background-position: 50% 73%;
+      }
+  }
+  
+  
+  @media (max-width: 950px) {
+    .row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      max-width: 90%;
+      width: 90%;
+      height: 90%;
+    }.col {
+      width: 87%;
+      height: 43%;
+    }
+  }
+  @media (max-width: 650px) {
+    .col {
+      width: 90%;
+      height: 46%;
+    }
+  }
