@@ -41,6 +41,7 @@ body {
 
 .img {
   background-image: url("../images/sea.big.jpg");
+  background-color: #fff;
   overflow: hidden;
   background-size: cover;
   background-position: 50% 67%;

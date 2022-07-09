@@ -42,6 +42,10 @@
     }
   }
   @media (max-width: 650px) {
+    .img {
+      background-image: url("../images/sea.small.jpg");      
+      background-position: 50% 74%;
+    }
     .col {
       width: 90%;
       height: 46%;

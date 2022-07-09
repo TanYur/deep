@@ -1,6 +1,9 @@
 body {   
     overflow: hidden;   
 }
+.row{
+    overflow: hidden;
+}
 
 .span {
     position: absolute;
