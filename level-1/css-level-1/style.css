@@ -40,7 +40,7 @@ body {
 }
 
 .img {
-  background-image: url("../images/sea.big.jpg");
+  background-image: url("../img-level-1/sea.big.jpg");
   background-color: #fff;
   overflow: hidden;
   background-size: cover;

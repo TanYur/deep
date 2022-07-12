@@ -21,7 +21,7 @@
       font-size: small;
     }
     .img { 
-        background-image: url("../images/sea.mid.jpg");     
+        background-image: url("../img-level-1/sea.mid.jpg");     
         background-position: 50% 73%;
       }
   }
@@ -43,7 +43,7 @@
   }
   @media (max-width: 650px) {
     .img {
-      background-image: url("../images/sea.small.jpg");      
+      background-image: url("../img-level-1/sea.small.jpg");      
       background-position: 50% 74%;
     }
     .col {
