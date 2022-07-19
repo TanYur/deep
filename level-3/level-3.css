@@ -1,0 +1,45 @@
+body{
+    display: flex;    
+    justify-content: center;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+   
+    width: 90vw;
+}
+.level-3__img{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    width: 100%;
+    height: 50vh;
+     background-color: antiquewhite;
+    
+     object-fit: contain;
+     overflow: hidden;
+}
+.level-3__img>img{
+    width: 100%;
+}
+.block{
+    width: 90vw;  
+    background-color: rgb(244, 244, 244);  
+    margin: 2%;   
+}
+.block-1{   
+    height: 20vh;
+}
+.block-2{    
+    height: 10vh;
+    
+}
+.block-3{    
+    height: 60vh;
+}
+.block-4{    
+    height: 70vh;
+}
